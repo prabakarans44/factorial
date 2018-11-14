@@ -37,3 +37,5 @@
     at WebContents.<anonymous> (/snap/vscode/66/usr/share/code/resources/electron.asar/browser/api/web-contents.js:286:13)
     at emitTwo (events.js:126:13)
     at WebContents.emit (events.js:214:7)
+[2018-11-14 11:35:02.480] [main] [info] update#setState checking for updates
+[2018-11-14 11:35:03.801] [main] [info] update#setState idle

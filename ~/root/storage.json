@@ -136,8 +136,7 @@
                     },
                     {
                         "id": "workbench.action.files.revert",
-                        "label": "Re&&vert File",
-                        "enabled": false
+                        "label": "Re&&vert File"
                     },
                     {
                         "id": "workbench.action.closeActiveEditor",
@@ -1205,5 +1204,25 @@
             "file:///home/ubuntuash/Documents/febcomplex/worker"
         ],
         "files2": []
+    },
+    "windowsState": {
+        "openedWindows": [],
+        "lastActiveWindow": {
+            "folderUri": {
+                "$mid": 1,
+                "fsPath": "/home/ubuntuash/Documents/febcomplex",
+                "external": "file:///home/ubuntuash/Documents/febcomplex",
+                "path": "/home/ubuntuash/Documents/febcomplex",
+                "scheme": "file"
+            },
+            "backupPath": "/home/ubuntuash/Documents/febcomplex/~/root/Backups/c22438f94dd8f95f2278c7334a79f22d",
+            "uiState": {
+                "mode": 1,
+                "x": 171,
+                "y": 57,
+                "width": 1024,
+                "height": 711
+            }
+        }
     }
 }
