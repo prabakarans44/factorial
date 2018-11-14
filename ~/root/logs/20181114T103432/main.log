@@ -1,0 +1,39 @@
+[2018-11-14 10:34:32.445] [main] [info] update#setState idle
+[2018-11-14 10:35:02.448] [main] [info] update#setState checking for updates
+[2018-11-14 10:35:02.725] [main] [info] update#setState idle
+[2018-11-14 10:47:36.574] [main] [error] [VS Code]: detected unresponsive
+[2018-11-14 10:48:14.068] [main] [error] [VS Code]: detected unresponsive
+[2018-11-14 10:48:18.557] [main] [error] [uncaught exception in main]: SyntaxError: Unexpected token o in JSON at position 0
+[2018-11-14 10:48:18.557] [main] [error] SyntaxError: Unexpected token o in JSON at position 0
+    at JSON.parse (<anonymous>)
+    at c (/snap/vscode/66/usr/share/code/resources/app/out/vs/code/electron-main/main.js:177:254)
+    at e.onRawMessage (/snap/vscode/66/usr/share/code/resources/app/out/vs/code/electron-main/main.js:178:948)
+    at /snap/vscode/66/usr/share/code/resources/app/out/vs/code/electron-main/main.js:178:528
+    at e.fire (/snap/vscode/66/usr/share/code/resources/app/out/vs/code/electron-main/main.js:122:218)
+    at /snap/vscode/66/usr/share/code/resources/app/out/vs/code/electron-main/main.js:185:795
+    at /snap/vscode/66/usr/share/code/resources/app/out/vs/code/electron-main/main.js:120:478
+    at /snap/vscode/66/usr/share/code/resources/app/out/vs/code/electron-main/main.js:120:705
+    at e.fire (/snap/vscode/66/usr/share/code/resources/app/out/vs/code/electron-main/main.js:122:218)
+    at EventEmitter.r (/snap/vscode/66/usr/share/code/resources/app/out/vs/code/electron-main/main.js:127:987)
+    at emitTwo (events.js:131:20)
+    at EventEmitter.emit (events.js:214:7)
+    at WebContents.<anonymous> (/snap/vscode/66/usr/share/code/resources/electron.asar/browser/api/web-contents.js:286:13)
+    at emitTwo (events.js:126:13)
+    at WebContents.emit (events.js:214:7)
+[2018-11-14 10:48:18.558] [main] [error] [uncaught exception in main]: SyntaxError: Unexpected token o in JSON at position 0
+[2018-11-14 10:48:18.558] [main] [error] SyntaxError: Unexpected token o in JSON at position 0
+    at JSON.parse (<anonymous>)
+    at c (/snap/vscode/66/usr/share/code/resources/app/out/vs/code/electron-main/main.js:177:254)
+    at e.onBuffer (/snap/vscode/66/usr/share/code/resources/app/out/vs/code/electron-main/main.js:182:571)
+    at /snap/vscode/66/usr/share/code/resources/app/out/vs/code/electron-main/main.js:180:669
+    at e.fire (/snap/vscode/66/usr/share/code/resources/app/out/vs/code/electron-main/main.js:122:218)
+    at /snap/vscode/66/usr/share/code/resources/app/out/vs/code/electron-main/main.js:185:795
+    at /snap/vscode/66/usr/share/code/resources/app/out/vs/code/electron-main/main.js:120:478
+    at /snap/vscode/66/usr/share/code/resources/app/out/vs/code/electron-main/main.js:120:705
+    at e.fire (/snap/vscode/66/usr/share/code/resources/app/out/vs/code/electron-main/main.js:122:218)
+    at EventEmitter.r (/snap/vscode/66/usr/share/code/resources/app/out/vs/code/electron-main/main.js:127:987)
+    at emitTwo (events.js:131:20)
+    at EventEmitter.emit (events.js:214:7)
+    at WebContents.<anonymous> (/snap/vscode/66/usr/share/code/resources/electron.asar/browser/api/web-contents.js:286:13)
+    at emitTwo (events.js:126:13)
+    at WebContents.emit (events.js:214:7)
