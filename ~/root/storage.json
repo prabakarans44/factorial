@@ -1198,9 +1198,10 @@
     },
     "theme": "vs-dark",
     "themeBackground": "#1e1e1e",
-    "pickerWorkingDir": "/home/ubuntuash/Documents",
+    "pickerWorkingDir": "/home/ubuntuash/Documents/factorial",
     "openedPathsList": {
         "workspaces2": [
+            "file:///home/ubuntuash/Documents/factorial/factorial",
             "file:///home/ubuntuash/Documents/febcomplex",
             "file:///home/ubuntuash/Documents/febcomplex/worker"
         ],
